@@ -1,0 +1,52 @@
+canonical_smiles,inchikey,category,activity,target
+C=CC(C)(O)CCC=C(C)C,CDOSHBSSFJOMGT-UHFFFAOYSA-N,natural,1,Ca2+ channels blockers
+CC(=O)OC/C=C(\C)CCC=C(C)C,HIGQPQRQIQDZMP-DHZHZOJOSA-N,natural,1,Ca2+ channels blockers
+CC1=CCC(C(C)C)=CC1,YKFLAYDHMOASIY-UHFFFAOYSA-N,natural,1,Ca2+ channels blockers
+CC(C)=CC(=O)O[C@H]1Cc2cc3ccc(=O)oc3cc2OC1(C)C,CUKSFECWKQBVED-INIZCTEOSA-N,natural,1,K+ channels
+CC(C)(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)[C@H]1Cc2cc3ccc(=O)oc3cc2O1,HXCGUCZXPFBNRD-DNLMCPORSA-N,natural,1,K+ channels
+O=C1C[C@@H](c2ccc(O)cc2)Oc2cc(O)cc(O)c21,FTVWIRXFELQLPI-ZDUSSCGKSA-N,natural,1,Ca2+ activated K+ channels
+O=C1C[C@@H](c2ccccc2)Oc2cc(O)cc(O)c21,URFCJEUYXNAHFI-ZDUSSCGKSA-N,natural,1,Ca2+ activated K+ channels
+O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,REFJWTPEDVJJIY-UHFFFAOYSA-N,natural,1,Ca2+ activated K+ channels
+O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,IQPNAANSBPBGFQ-UHFFFAOYSA-N,natural,1,Ca2+ activated K+ channels
+CC(C)=CCc1cc(C(=O)CCc2ccccc2)c(O)c(CC=C(C)C)c1O,FNLZDTRDNGENRF-UHFFFAOYSA-N,natural,1,K+ channels and NO/sCG/PKG pathway
+CC(C)=CCc1c(O)ccc(C(=O)/C=C/c2ccccc2)c1O,CHWWSUSAPRACBZ-FMIVXFBMSA-N,natural,1,K+ channels and NO/sCG/PKG pathway
+CC1OCc2c(ccc(O)c2O)C1=O,XMPDGGPOGJOFIJ-UHFFFAOYSA-N,natural,1,PI3K/Akt/eNOS pathway
+COc1ccc(-c2cc(=O)c3c(O)cc(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)cc3o2)cc1,NLZCOTZRUWYPTP-MIUGBVLSSA-N,natural,1,NO release and K+ channels
+Cc1nc(C)c(C)nc1C,FINHMKGKINIASC-UHFFFAOYSA-N,natural,1,K+ channel
+C=CCSS(=O)CC=C,JDLKFOPOAOFWQN-UHFFFAOYSA-N,natural,1,"ACE, AT1R, RAAS, NO pathway, K⁺"
+O=C(/C=C/c1ccc(O)c(O)c1)O[C@@H]1[C@H](O)C[C@@](O)(C(=O)O)C[C@H]1OC(=O)/C=C/c1ccc(O)c(O)c1,UFCLZKMFXSILNL-PSEXTPKNSA-N,natural,1,"Ca2+ channels, NO-cGC-PKG pathway"
+O=C(/C=C/c1ccc(O)c(O)c1)O[C@@H]1CC(O)(C(=O)O)C[C@@H](OC(=O)/C=C/c2ccc(O)c(O)c2)C1O,KRZBCHWVBQOTNZ-RDJMKVHDSA-N,natural,1,"Ca2+ channels, NO-cGC-PKG pathway"
+O=C(/C=C/c1ccc(O)c(O)c1)O[C@H]1[C@H](O)C[C@](O)(C(=O)O)C[C@H]1OC(=O)/C=C/c1ccc(O)c(O)c1,UFCLZKMFXSILNL-RVXRWRFUSA-N,natural,1,"Ca2+ channels, NO-cGC-PKG pathway"
+O=c1cc(-c2ccc(O)cc2)oc2c([C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)c(O)c([C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)c(O)c12,FIAAVMJLAGNUKW-VQVVXJKKSA-N,natural,1,"Ca2+ channels, NO-cGC-PKG pathway"
+Oc1cc(O)c2c(c1)O[C@H](c1ccc(O)c(O)c1)[C@H](O)[C@H]2c1c(O)cc2c(c1O)C[C@@H](O)[C@@H](c1ccc(O)c(O)c1)O2,GMISZFQPFDAPGI-CVJZBMGUSA-N,natural,1,"L-type Ca²⁺ channel blockade, β₂-adrenergic receptor action, NO pathway"
+Oc1cc(O)c2c(c1)O[C@H](c1ccc(O)c(O)c1)[C@@H](O)[C@@H]2c1c(O)cc(O)c2c1O[C@H](c1ccc(O)c(O)c1)[C@@H](O)C2,XFZJEEAOWLFHDH-AVFWISQGSA-N,natural,1,"L-type Ca²⁺ channel blockade, β₂-adrenergic receptor action, NO pathway"
+Oc1cc(O)c2c(c1)O[C@H](c1ccc(O)c(O)c1)[C@@H](O)C2,PFTAWBLQPZVEMU-DZGCQCFKSA-N,natural,1,"L-type Ca²⁺ channel blockade, β₂-adrenergic receptor action, NO pathway"
+Oc1cc(O)c2c(c1)O[C@H](c1ccc(O)c(O)c1)[C@H](O)[C@H]2c1c(O)cc(O)c2c1O[C@H](c1ccc(O)c(O)c1)[C@H](O)[C@H]2c1c(O)cc(O)c2c1O[C@H](c1ccc(O)c(O)c1)[C@H](O)C2,MOJZMWJRUKIQGL-XILRTYJMSA-N,natural,1,"L-type Ca²⁺ channel blockade, β₂-adrenergic receptor action, NO pathway"
+O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)c([C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)c(O)c12,ODBRNZZJSYPIDI-VJXVFPJBSA-N,natural,1,"L-type Ca²⁺ channel blockade, β₂-adrenergic receptor action, NO pathway"
+O=c1cc(-c2ccc(O)cc2)oc2cc(O)c([C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)c(O)c12,MYXNWGACZJSMBT-VJXVFPJBSA-N,natural,1,"L-type Ca²⁺ channel blockade, β₂-adrenergic receptor action, NO pathway"
+COc1c(O)c(-c2c(O)c(OC)c(OC)c3c2cc(OC)c2cc(O)ccc23)c2cc(OC)c3cc(O)ccc3c2c1OC,DPBXUMRHNZGPCT-UHFFFAOYSA-N,natural,1,vasorelaxation by blockade of L-VGCC
+CN1C2=C3N=c4ccccc4=C3CCN2C(=O)c2ccccc21,VXHNSVKJHXSKKM-UHFFFAOYSA-N,natural,1,"NO-guanylyl cyclase pathway, Ca2+ channel, K+ channel, α-adrenoceptors,"
+COc1c(-c2ccc(O)cc2)oc2cc(O)cc(O)c2c1=O,VJJZJBUCDWKPLC-UHFFFAOYSA-N,natural,0,Ca²⁺ and K⁺ channels
+CNC(=S)C1=CC(C)(C)Oc2ccc([N+](=O)[O-])cc21,YCAMNSDXCCDILU-UHFFFAOYSA-N,synthetic,1,K + channel openers
+CNC(=O)C1=CC(C)(C)Oc2ccc([N+](=O)[O-])cc21,PHIPFVKBKRVXLC-UHFFFAOYSA-N,synthetic,1,K + channel openers
+CC1(C)C=C(C(=S)NCCC#N)c2cc([N+](=O)[O-])ccc2O1,JCVGBCGTJFOARS-UHFFFAOYSA-N,synthetic,1,K + channel openers
+CC1(C)C=C(C(=O)NCCC#N)c2cc([N+](=O)[O-])ccc2O1.O,LVIVNFBJXWRUCU-UHFFFAOYSA-N,synthetic,1,K + channel openers
+CNC(=S)C1=CC(C)(CF)Oc2ccc([N+](=O)[O-])cc21,BXDAMADLNUAOGU-UHFFFAOYSA-N,synthetic,1,K + channel openers
+CNC(=O)C1=CC(C)(CF)Oc2ccc([N+](=O)[O-])cc21,AILGDUYPTZPKMC-UHFFFAOYSA-N,synthetic,1,K + channel openers
+CC1(CF)C=C(C(=S)NCCC#N)c2cc([N+](=O)[O-])ccc2O1,DRQYNLODWXEJBU-UHFFFAOYSA-N,synthetic,1,K + channel openers
+CC1(CF)C=C(C(=O)NCCC#N)c2cc([N+](=O)[O-])ccc2O1,BQDKJLPXNCMOPC-UHFFFAOYSA-N,synthetic,1,K + channel openers
+CNC(=S)C1=CC(CF)(CF)Oc2ccc([N+](=O)[O-])cc21,YHZOAJUGGHFNBD-UHFFFAOYSA-N,synthetic,1,K + channel openers
+CNC(=O)C1=CC(CF)(CF)Oc2ccc([N+](=O)[O-])cc21,RVIQVZZLBZXTPU-UHFFFAOYSA-N,synthetic,1,K + channel openers
+N#CCCNC(=S)C1=CC(CF)(CF)Oc2ccc([N+](=O)[O-])cc21,LKUDLWNQCZSCQW-UHFFFAOYSA-N,synthetic,1,K + channel openers
+N#CCCNC(=O)C1=CC(CF)(CF)Oc2ccc([N+](=O)[O-])cc21,WMVNZVFRFPHGMS-UHFFFAOYSA-N,synthetic,1,K + channel openers
+CNC(=S)C1=CC(C)(C(F)(F)F)Oc2ccc([N+](=O)[O-])cc21,AJAFLLUYJOKNMU-UHFFFAOYSA-N,synthetic,1,K + channel openers
+CNC(=O)C1=CC(C)(C(F)(F)F)Oc2ccc([N+](=O)[O-])cc21,ZUCNOWGRNYYKIC-UHFFFAOYSA-N,synthetic,1,K + channel openers
+CC1(C(F)(F)F)C=C(C(=S)NCCC#N)c2cc([N+](=O)[O-])ccc2O1,SQOSTQAIAPBACI-UHFFFAOYSA-N,synthetic,1,K + channel openers
+CC1(C(F)(F)F)C=C(C(=O)NCCC#N)c2cc([N+](=O)[O-])ccc2O1,RZXASFQQAIJKSP-UHFFFAOYSA-N,synthetic,1,K + channel openers
+CNC(=S)C1=CC(C(F)(F)F)(C(F)(F)F)Oc2ccc([N+](=O)[O-])cc21,YCENYDJESABRIW-UHFFFAOYSA-N,synthetic,1,K + channel openers
+CNC(=O)C1=CC(C(F)(F)F)(C(F)(F)F)Oc2ccc([N+](=O)[O-])cc21,OELSKZONJFAGSZ-UHFFFAOYSA-N,synthetic,1,K + channel openers
+N#CCCNC(=S)C1=CC(C(F)(F)F)(C(F)(F)F)Oc2ccc([N+](=O)[O-])cc21,VAVKORLWGHXGMK-UHFFFAOYSA-N,synthetic,1,K + channel openers
+N#CCCNC(=O)C1=CC(C(F)(F)F)(C(F)(F)F)Oc2ccc([N+](=O)[O-])cc21,OLSAXZAKGACYRU-UHFFFAOYSA-N,synthetic,1,K + channel openers
+N#Cc1ccc2c(c1)[C@@H](N1CCCC1)CCO2,FWUDYHLZCRQMPT-ZDUSSCGKSA-N,synthetic,1,K + channel openers
+CC(N/C(=N\C#N)Nc1ccncc1)C(C)(C)C,IVVNZDGDKPTYHK-UHFFFAOYSA-N,synthetic,1,K + channel openers
+CNC(=S)[C@]1(c2cccnc2)CCCCS1=O,GKEMHVLBZNVZOI-MTATWXBHSA-N,synthetic,1,K + channel openers
