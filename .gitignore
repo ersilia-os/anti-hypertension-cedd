@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+*.DS_Store
+data/chembl/chembl_35_chemreps.csv
+data/coconut/coconut_04_2025.csv
+
 # Distribution / packaging
 .Python
 build/
