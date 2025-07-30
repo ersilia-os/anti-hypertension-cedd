@@ -63,7 +63,7 @@ SD_163,Cc1nc(CO)c2c(n1)N(Cc1ccc(-c3ccccc3-c3nnn[nH]3)cc1)C(=O)CC2,BGSIWQLVFAOOGV
 SD_164,Cc1nc(C=O)c2c(n1)N(Cc1ccc(-c3ccccc3-c3nnn[nH]3)cc1)C(=O)CC2,DKMLYADVVLIQTK-UHFFFAOYSA-N,synthetic,1
 SD_165,Cc1nc(CO)nc2c1CCC(=O)N2Cc1ccc(-c2ccccc2-c2nnn[nH]2)cc1,PYGFPKLNGWVHGK-UHFFFAOYSA-N,synthetic,1
 SD_166,Cc1nc(C)c2c(n1)N(Cc1ccc(-c3ccccc3-c3nnn[nH]3)cc1)CCC2,CRPBWMYAUJNKOV-UHFFFAOYSA-N,synthetic,1
-SD_167,Cc1nc(C)c2c(n1)N(Cc1ccc(-c3ccccc3C(=O)O[K])cc1)C(=O)CC2.O,SFKCETDSSWWPKY-UHFFFAOYSA-M,synthetic,1
+SD_167,Cc1nc(C)c2c(n1)N(Cc1ccc(-c3ccccc3C(=O)[O][K])cc1)C(=O)CC2.O,SFKCETDSSWWPKY-UHFFFAOYSA-M,synthetic,1
 SD_168,Cc1nc(C)c2c(n1)N(Cc1ccc(-c3ccccc3-c3nnn[nH]3)nc1)C(=O)CC2,XSHXQLODFJYKON-UHFFFAOYSA-N,synthetic,1
 SD_170,Cc1nc(C)c2c(n1)N(Cc1ccc(-c3ccccc3-c3nnn[nH]3)cn1)C(=O)CC2,HPKMJTIQUSGVRH-UHFFFAOYSA-N,synthetic,1
 SD_308,CCc1nc2c(C)cc(C)nc2n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,YFWXFHNZGKNDBC-UHFFFAOYSA-N,synthetic,1

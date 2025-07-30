@@ -528,7 +528,7 @@ Cc1nc(CO)c2c(n1)N(Cc1ccc(-c3ccccc3-c3nnn[nH]3)cc1)C(=O)CC2
 Cc1nc(C=O)c2c(n1)N(Cc1ccc(-c3ccccc3-c3nnn[nH]3)cc1)C(=O)CC2
 Cc1nc(CO)nc2c1CCC(=O)N2Cc1ccc(-c2ccccc2-c2nnn[nH]2)cc1
 Cc1nc(C)c2c(n1)N(Cc1ccc(-c3ccccc3-c3nnn[nH]3)cc1)CCC2
-Cc1nc(C)c2c(n1)N(Cc1ccc(-c3ccccc3C(=O)O[K])cc1)C(=O)CC2.O
+Cc1nc(C)c2c(n1)N(Cc1ccc(-c3ccccc3C(=O)[O][K])cc1)C(=O)CC2.O
 Cc1nc(C)c2c(n1)N(Cc1ccc(-c3ccccc3-c3nnn[nH]3)nc1)C(=O)CC2
 Cc1nc(C)c2c(n1)N(Cc1ccc(-c3ccccc3-c3nnn[nH]3)cn1)C(=O)CC2
 C[C@H](NC(CCc1ccccc1)C(=O)O)C(=O)N1C(=O)NC[C@H]1C(=O)O

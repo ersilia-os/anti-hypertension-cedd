@@ -52,3 +52,11 @@ model.save_model(model_folder)
 
 with open(os.path.join(model_folder,"report.json"), "w") as f:
     json.dump(report, f, indent=2)
+
+
+""" Params for large models:
+min_seen_across_partitions=1, 
+num_trials=20, 
+base_num_splits=1, 
+max_samples=10000
+"""
