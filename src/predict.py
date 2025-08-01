@@ -14,7 +14,6 @@ if not os.path.exists(pred_folder):
 
 pred_data=pd.read_csv(pred_file)
 smiles = pred_data["smiles"]
-y_test = pred_data["activity"]
 
 results={}
 
@@ -24,14 +23,9 @@ chemeleon = lazyqsar.descriptors.ChemeleonDescriptor()
 X = chemeleon.transform(smiles)
 print(X.shape)
 y_hat = model.predict_proba(X=X)[:,1]
-fpr, tpr, _ = roc_curve(y_test, y_hat)
-roc_auc = auc(fpr, tpr)
-print("AUROC", roc_auc)
 results["model"] = str(model_folder.split("/")[-1])
 results["pred_set"] = str(pred_file.split("/")[-1])
-results["y_test"]=list(y_test)
 results["y_hat"]=list(y_hat)
-results["roc_auc"] = float(roc_auc)
 
 with open(os.path.join(pred_folder,"results.json"), "w") as f:
     json.dump(results, f, indent=2)

@@ -21,7 +21,7 @@ smiles = train["smiles"]
 y = train["activity"]
 
 print("Crossvalidation")
-folds = 5
+folds = 3
 roc_aucs = []
 report = collections.defaultdict(dict)
 skf = StratifiedKFold(n_splits=folds, shuffle=True, random_state=42)
@@ -30,7 +30,12 @@ X = chemeleon.transform(smiles)
 for fold, (train_idx, test_idx) in enumerate(skf.split(X, y)):
     X_train, X_test = X[train_idx], X[test_idx]
     y_train, y_test = y[train_idx], y[test_idx]
-    model = lazyqsar.LazyBinaryClassifier(model_type=model_type)
+    model = lazyqsar.LazyBinaryClassifier(model_type=model_type, 
+                                          pca=False,
+                                          min_seen_across_partitions=1, 
+                                          num_trials=20, 
+                                          base_num_splits=1, 
+                                          max_samples=10000)
     model.fit(X_train, y_train)
     y_hat = model.predict_proba(X_test)[:,1]
     fpr, tpr, _ = roc_curve(y_test, y_hat)
@@ -55,6 +60,8 @@ with open(os.path.join(model_folder,"report.json"), "w") as f:
 
 
 """ Params for large models:
+folds = 3,
+pca=False,
 min_seen_across_partitions=1, 
 num_trials=20, 
 base_num_splits=1, 
