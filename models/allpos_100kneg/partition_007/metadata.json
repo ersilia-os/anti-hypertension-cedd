@@ -1,1 +1,0 @@
-{"pca": true, "random_state": 42, "num_splits": 3, "test_size": 0.25, "mean_score_": 0.923804305356148, "std_score_": 0.007543031609300678}

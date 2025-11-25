@@ -1,0 +1,4 @@
+python lazybinaryclassifier.py allmols_internal
+python lazybinaryclassifier.py np_internal
+python lazybinaryclassifier.py sd_internal
+python lazybinaryclassifier.py ACE_internal

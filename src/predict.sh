@@ -1,0 +1,4 @@
+python lazybinarypredictor.py all_natural sd_internal
+python lazybinarypredictor.py all_synthetic np_internal
+python lazybinarypredictor.py all_natural sd_eos3e6snegs
+python lazybinarypredictor.py all_synthetic np_eos3e6snegs

@@ -1,0 +1,6 @@
+#python lazybinaryclassifier.py allmols_eos3e6snegs
+python lazybinaryclassifier.py np_eos3e6snegs
+python lazybinaryclassifier.py sd_eos3e6snegs
+python lazybinaryclassifier.py ACE_eos3e6snegs
+python lazybinaryclassifier.py CCBs_eos3e6snegs
+python lazybinaryclassifier.py AT1RBs_eos3e6snegs
