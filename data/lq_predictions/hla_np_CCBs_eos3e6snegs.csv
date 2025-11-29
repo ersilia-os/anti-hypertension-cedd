@@ -1,0 +1,6 @@
+smiles,y_pred
+COc1ccc(/C=C/CC(=O)Nc2ccc3c(c2)/C(=N/Nc2ccc(C(F)(F)F)cc2)C(=O)N3)cc1,0.020829926858804297
+N#Cc1ccc(C(=O)Nc2ccc3c(c2)/C(=N/Nc2ccc(C(F)(F)F)cc2)C(=O)N3)cc1,0.009215757586978022
+COc1ccc(/C=C/CC(=O)Nc2ccc3c(c2)/C(=N\Nc2ccc(Cl)cc2Cl)C(=O)N3)cc1,0.015075602114158912
+N#Cc1ccc(C(=O)Nc2ccc3c(c2)/C(=N/Nc2ccc(Cl)cc2Cl)C(=O)N3)cc1,0.006882737177443822
+CC/C(=N\NC(=O)Cc1c[nH]c2ccccc12)c1cccc(OC)c1,0.11925832035730172
